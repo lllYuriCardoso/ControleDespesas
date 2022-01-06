@@ -154,6 +154,7 @@ input[type='number'] {
   position: relative;
   padding: 10px;
   margin: 10px 10px 10px 15px;
+  border-radius: 10px;
 }
 
 .transactions li.plus {
